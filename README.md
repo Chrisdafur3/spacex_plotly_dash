@@ -27,5 +27,5 @@ Interactive Plotly Dash application for users to perform interactive visual anal
 
 
 <p align="center">
-<img align="center" src=".img/carbon.svg" width="900">
+<img align="center" src="./dash.PNG" width="900">
 </p>
